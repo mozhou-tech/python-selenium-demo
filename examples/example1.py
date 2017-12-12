@@ -1,8 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-import config
+import config.selenium as config
 
-print(config);
 
 driver = webdriver.Chrome(config.base.chrome_driver_path) # 改用本地的Path
 driver.get("http://www.baidu.com")

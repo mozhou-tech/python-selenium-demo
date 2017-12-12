@@ -5,7 +5,7 @@
 
 from selenium import webdriver
 from time import sleep
-import config
+import config.selenium as config
 
 print(config.base['chrome_driver_path'])
 driver = webdriver.Chrome(config.base['chrome_driver_path'])
