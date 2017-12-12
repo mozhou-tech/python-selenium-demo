@@ -16,7 +16,7 @@ pip install -r requirements.txt
 https://sites.google.com/a/chromium.org/chromedriver/downloads 需下载最新版本
 下载后需要安放在特定位置，并修改config.py中对应的配置
 
-### Selenium IDE 安装
+### 安装 Selenium IDE
 一款基于Firefox的浏览器插件 http://www.importnew.com/25509.html
 
 ## 目录结构
