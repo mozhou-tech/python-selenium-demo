@@ -1,13 +1,16 @@
-## Instruction for usage of python selenium demo
+## 介绍 Instruction
 
-Operation System:   Mac OS
+已测试操作系统  Mac OS
 
-## Setup
-
+## 安装 Setup
+### 安装依赖的Python库
 ```
 pip install -r requirements.txt
 ```
+### 下载driver
+http://chromedriver.storage.googleapis.com/index.html?path=2.25
 
 
-## Requirements
-http://chromedriver.storage.googleapis.com/index.html?path=2.25/
+## 参考文档 Reference
+http://selenium-python-zh.readthedocs.io/en/latest/index.html
+http://blog.csdn.net/column/details/12694.html
